@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^7.2.1",
     "aws-amplify": "^3.3.4",
     "aws-amplify-react": "^4.2.8",
+    "dotenv": "^8.2.0",
+    "graphql-tag": "^2.11.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
